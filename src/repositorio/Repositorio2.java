@@ -10,5 +10,8 @@ package repositorio;
  * @author Alumno
  */
 public class Repositorio2 {
+
+    public Repositorio2() {
+    }
     
 }
